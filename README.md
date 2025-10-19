@@ -205,7 +205,7 @@ If you use this code in your research, please cite:
 
 ## Acknowledgments
 
-- Warping and gradient functions written by Tomeu Garau
+- This code is made in great part with the help of Onofre Martorell.
 - Based on variational optical flow methods and deep unfolding techniques
 
 ## Contributing
